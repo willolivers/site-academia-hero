@@ -1,0 +1,134 @@
+body{ 
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background:  gray;
+	margin: 0 auto;
+	padding: 0;
+	background: url(../imagens/fundo-cinza1.png); 
+}
+
+#container1{
+	width: 900px;
+    height: 480px;
+	background-color: #fff;
+    background: -webkit-gradient(linear, left top, right top, from(#333333), to(#dd1818));
+	margin: 0 auto;
+	border-radius: 10px;
+	text-align: center;
+	margin-bottom: 40px;
+
+}
+
+
+.dados{
+	height: 30px;
+	width: 300px;
+	margin: 0 0 20px 0;
+    border:none;
+    border-radius: 10px;
+
+}
+
+#formulario{
+    width: 400px;
+    height: 400px;
+    margin-left: 490px;
+    display: block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****************************************************************
+imagens */
+
+#logo{
+	height: 133px;
+    margin: 0 auto;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+
+#imagem{
+    width: 720px;
+    margin: 0 auto;
+}
+
+#gif{
+	width: 450px;
+	height: 480px;
+	background-color:none;
+	margin:0 auto;
+    float: left;
+    border-radius: 10px 0 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************************
+configuracoes solo*/
+#submit{
+    margin: 10px 0 0 0;
+    background: #8B0000;
+    color: #fff; 
+    border: 2px solid #fff;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+#submit:hover{
+    background: #dd1818;
+    width: 310px;
+}
+
+h2{
+    padding: 45px 0 0 0;
+    color: #fff;
+}
+
+h1{
+    padding: 140px 0 0 0;
+    color: #fff;
+    margin-bottom: 70px;
+}
+
+p{
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 30px;
+    margin-top: -10px;
+    color: #fff;
+}
+
+legend{
+	text-align: left;
+    padding: 0 50px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.material-icons-outlined{
+    color: #fff;
+    margin: 0 0 0 580px;
+    display: block;
+}
+
